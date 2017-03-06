@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
@@ -498,7 +498,8 @@ h6,
   background-color: #ffffff;
 }
 #footer1-2 P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #msg-box8-4 .mbr-section-title,
 #msg-box8-4 p {
@@ -553,7 +554,8 @@ h6,
 
 
 #footer1-9 P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
@@ -667,7 +669,8 @@ h6,
 
 
 #footer1-z P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #menu-10 .hide-buttons .nav-btn {
   display: none !important;
@@ -763,7 +766,8 @@ h6,
 
 
 #footer1-16 P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
@@ -852,7 +856,8 @@ h6,
 
 
 #footer1-1m P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #menu-1n .hide-buttons .nav-btn {
   display: none !important;
@@ -944,7 +949,8 @@ h6,
 
 
 #footer1-1u P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #menu-1v .hide-buttons .nav-btn {
   display: none !important;
@@ -1020,17 +1026,21 @@ h6,
   color: #ffffff;
   text-align: right;
   font-family: 'Merriweather', serif;
+  font-size: 36px;
 }
 #msg-box5-1w P {
   color: #ffffff;
 }
 #msg-box5-1w B {
   font-family: 'Merriweather', serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 #content2-2l BLOCKQUOTE {
   font-family: 'Merriweather', serif;
-  font-size: 16px;
+  font-size: 14px;
+}
+#content2-2l UL {
+  font-size: 14px;
 }
 #social-buttons4-1z .mbr-section-title,
 #social-buttons4-1z .btn-social {
@@ -1043,7 +1053,8 @@ h6,
 
 
 #footer1-20 P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #menu-21 .hide-buttons .nav-btn {
   display: none !important;
@@ -1131,12 +1142,17 @@ h6,
 
 
 
+
+
+
+
 #form1-29 .form-control-label {
   color: #efefef;
 }
 #form1-29 .mbr-section-title {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 24px;
+  font-family: 'Merriweather', serif;
 }
 #form1-29 SMALL {
   color: #ffffff;
@@ -1147,8 +1163,18 @@ h6,
 #form1-29 STRONG {
   font-size: 14px;
 }
+#contacts1-2c SPAN {
+  font-family: 'Merriweather', serif;
+}
+#contacts1-2c P {
+  font-family: 'Merriweather', serif;
+}
+#contacts1-2c STRONG {
+  font-family: 'Merriweather', serif;
+}
 #footer1-27 P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #menu-28 .hide-buttons .nav-btn {
   display: none !important;
@@ -1304,14 +1330,16 @@ h6,
   font-size: 24px;
 }
 #footer1-2e P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 
 
 
 
 #footer1-n P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
 }
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
