@@ -48,7 +48,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -59,10 +59,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -104,7 +104,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -136,7 +136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -239,7 +239,7 @@
             "showMeta": true
           },
           "title": "Добро пожаловать!<br>",
-          "meta": "<span style=\"font-style: normal;\">В нашей мастерской изготавливаются такие виды волынок, как:</span>"
+          "meta": "<span style=\"font-style: normal;\">В нашей мастерской изготавливаются различные виды волынок:</span>"
         },
         {
           "_tags": [
@@ -564,7 +564,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -575,10 +575,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -623,7 +623,7 @@
           "_anchor": "menu-17",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -655,7 +655,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -782,7 +782,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#282828",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -864,7 +864,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x133413.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-a-story-of-one-gaita-trailer-2017-youtube-google-chrome-2017-02-24-16-2000x826.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -917,7 +917,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -928,10 +928,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -976,7 +976,7 @@
           "_anchor": "menu-10",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -1008,7 +1008,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1261,7 +1261,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1272,10 +1272,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1320,7 +1320,7 @@
           "_anchor": "menu-1n",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -1350,7 +1350,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1556,7 +1556,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1567,10 +1567,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1615,7 +1615,7 @@
           "_anchor": "menu-1v",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -1645,7 +1645,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1996,7 +1996,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2007,10 +2007,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2055,7 +2055,7 @@
           "_anchor": "menu-28",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -2085,7 +2085,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -2105,7 +2105,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2116,10 +2116,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2164,7 +2164,7 @@
           "_anchor": "menu-28",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -2194,7 +2194,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2385,7 +2385,7 @@
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x133413.jpg",
+            "bgImage": "file:///C:/Users/Lenovo/AppData/Local/Mobirise.com/Mobirise/projectData/+-2000x1334.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -2463,7 +2463,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2474,10 +2474,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2522,7 +2522,7 @@
           "_anchor": "menu-21",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -2552,7 +2552,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2754,7 +2754,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2765,10 +2765,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2813,7 +2813,7 @@
           "_anchor": "menu-2n",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -2843,7 +2843,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3045,7 +3045,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3056,10 +3056,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3104,7 +3104,7 @@
           "_anchor": "menu-8",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -3136,7 +3136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3376,7 +3376,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3387,10 +3387,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3435,7 +3435,7 @@
           "_anchor": "menu-17",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "1",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -3467,7 +3467,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">asmolovpipes.com</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop.html\">Мастерская</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Инструменты</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hummel.html\">Hümmelchen&nbsp;/ Немецкая ренессансная волынка<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gaita.html\">Gaita Gallega&nbsp;/ Галисийская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sackpipa.html\">Säckpipa / Шведская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dudel.html\">Mittelalterliche Sackpfeife /&nbsp;Средневековая волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smallpipes.html\">Scottish Smallpipes /&nbsp;Малая шотландская волынка</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"rausch.html\">Rauschpfeife &amp; Shawm / Раушпфайфы и шалмеи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"accessories.html\">Bagpipe Accessories / Комплектующие для волынок</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"maintenance.html\" aria-expanded=\"false\">Обслуживание</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
