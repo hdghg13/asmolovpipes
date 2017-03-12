@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
@@ -78,14 +77,14 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Droid Serif', serif;
+  font-family: 'Merriweather', serif;
   font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Merriweather', serif;
 }
 .mbr-author-desc {
-  font-family: 'Droid Serif', serif;
+  font-family: 'Merriweather', serif;
   font-style: normal;
 }
 .mbr-plan-title {
@@ -93,7 +92,7 @@ h6,
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Droid Serif', serif;
+  font-family: 'Merriweather', serif;
   font-style: normal;
 }
 .bg-primary {
@@ -673,6 +672,7 @@ h6,
 
 
 
+
 #footer1-z P {
   font-family: 'Merriweather', serif;
   font-size: 14px;
@@ -755,11 +755,18 @@ h6,
   color: #ffffff;
 }
 #msg-box5-11 B {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 18px;
 }
 #content2-1i BLOCKQUOTE {
   font-size: 18px;
+}
+#content2-1i P {
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+}
+#gallery3-15 .mbr-gallery-item > div > span {
+  font-size: 12px;
 }
 #social-buttons4-14 .mbr-section-title,
 #social-buttons4-14 .btn-social {
@@ -1427,6 +1434,7 @@ h6,
 }
 #msg-box5-w P {
   color: #ffffff;
+  font-size: 18px;
 }
 #msg-box5-w H3 {
   color: #ffffff;

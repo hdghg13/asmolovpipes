@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "hummel.html",
+    "currentPage": "gaita.html",
     "name": "asmolovpipes",
     "theme": {
       "name": "mobirise3",
@@ -13,7 +13,7 @@
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Merriweather",
-        "subtitleFont": "Droid Serif",
+        "subtitleFont": "Merriweather",
         "textFont": "Merriweather",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 103,
+    "uniqCompNum": 104,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/oz3kyhm1csc-128x85.png",
     "noImageResize": ""
@@ -150,8 +150,8 @@
           },
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -542,8 +542,8 @@
           },
           "_anchor": "footer1-9",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -801,7 +801,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x13343.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x13349.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -832,8 +832,8 @@
           },
           "_anchor": "footer1-z",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -931,10 +931,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ap-logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -958,14 +960,14 @@
               "color": "#ffffff"
             },
             "B": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "18px"
             }
           },
           "_anchor": "msg-box5-11",
           "_params": {
-            "imageSize": "66",
+            "imageSize": "60",
             "paddingTop": "4",
             "paddingBottom": "2",
             "parallax": true,
@@ -1007,7 +1009,7 @@
               "size": 0
             }
           },
-          "title": "Гайта",
+          "title": "Gaita Gallega",
           "text": "<b>Галисийская волынка</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -1019,6 +1021,11 @@
           "_styles": {
             "BLOCKQUOTE": {
               "font-size": "18px"
+            },
+            "P": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "content2-1i",
@@ -1027,7 +1034,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+          "text": "<blockquote><p>&nbsp;Гайта Галлега (Gaita Gallega) это волынка родом из испанской провинции Галисия (Galicia), история которой уходит корнями в средневековье. Громкая волынка с высоким бархатным звуком, но достаточно тихая для игры в ансамблях с другими инструментами. Обладает средним расходом воздуха, который можно регулировать с помощью баланса тростей чантера и бурдонов. Инструмент подходит для исполнения самой разной музыки.&nbsp;</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b>Аппликатура:</b> гайтовая открытая.</span></p><p><span style=\"line-height: 1.5;\"><b>Тональности: </b>Соль (G), Ля (A), Си-бемоль (Bb), До (C), Ре (D).</span></p><p><span style=\"line-height: 1.5;\"><b>Материалы:</b> пластик, бубинга, палисандр, эбен.</span></p><p><span style=\"line-height: 1.5;\"><b>Комбинации дронов:</b> бас, бас + баритон, бас + тенор,  бас + баритон + тенор.</span></p><p><span style=\"line-height: 1.5;\"><b>Трости:</b> пластиковые, натуральные.</span></p><p><span style=\"line-height: 1.5;\"><b>Мешок:</b> синтетический или кожаный.</span></p><p><span style=\"line-height: 1.5;\"><b>Подача воздуха:</b> вдувалка.&nbsp;</span></p></blockquote>"
         },
         {
           "_inherit": "gallery1",
@@ -1046,22 +1053,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/7vj-vzvchfm-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/7vj-vzvchfm-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Гайта в До (C). Бубинга, пластик.",
                 "active": false
               },
               {
-                "thumb": "@PROJECT_PATH@/assets/images/kwac6b9jky8-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kwac6b9jky8-2000x1334.jpg",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ee22n3o769g-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ee22n3o769g-2000x1333.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/02-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02-1-2000x1333.jpg",
+                "caption": "Гайта в До (C) с двумя дронами. Бубинга, акрил.",
                 "active": false
               },
               {
@@ -1069,23 +1067,63 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/u5uhhg9jqpm-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/u5uhhg9jqpm-2000x1333.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/03-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03-1-2000x1333.jpg",
+                "caption": "Гайта в До (C). Якаранда, самшит.",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04-2000x1333.jpg",
+                "caption": "Гайта в До (C), два бурдона. Палисандр, самшит.",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/05-1-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/05-1-2000x1334.jpg",
+                "caption": "Гайта в Ля (A), два дрона в квинту. Палисандр, акрил.",
+                "active": false
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#ffffff",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-15",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "12px"
+            }
+          }
+        },
+        {
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F306788193",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-2v",
+          "_params": {
+            "sound": "https://soundcloud.com/asmolov-pipes/sets/gaita",
+            "autoplay": false,
+            "fullWidth": true
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F306788193&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         },
         {
           "_inherit": "social-buttons2",
@@ -1115,7 +1153,7 @@
             "overlayColor": "#222"
           },
           "text": "Присоединяйся!",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
         }
       ]
     },
@@ -1138,8 +1176,8 @@
           },
           "_anchor": "footer1-1m",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1433,8 +1471,8 @@
           },
           "_anchor": "footer1-1u",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1873,8 +1911,8 @@
           },
           "_anchor": "footer1-27",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2284,7 +2322,7 @@
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x13343.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x13349.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -2306,8 +2344,8 @@
           },
           "_anchor": "footer1-2e",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2340,8 +2378,8 @@
           },
           "_anchor": "footer1-20",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2631,8 +2669,8 @@
           },
           "_anchor": "footer1-2m",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2922,8 +2960,8 @@
           },
           "_anchor": "footer1-n",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3024,7 +3062,7 @@
               "src": "@PROJECT_PATH@/assets/images/ap-logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3044,7 +3082,8 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "18px"
             },
             "H3": {
               "color": "#ffffff"
@@ -3229,7 +3268,7 @@
             "overlayColor": "#222"
           },
           "text": "Присоединяйся!",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/asmolovpipes/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/asmolov_pipes\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
         }
       ]
     },
@@ -3252,8 +3291,8 @@
           },
           "_anchor": "footer1-16",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
