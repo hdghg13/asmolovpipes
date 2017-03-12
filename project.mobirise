@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "workshop.html",
+    "currentPage": "contacts.html",
     "name": "asmolovpipes",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 105,
+    "uniqCompNum": 106,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/oz3kyhm1csc-128x85.png",
     "noImageResize": ""
@@ -48,7 +48,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -564,7 +564,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -644,7 +644,7 @@
               "src": "@PROJECT_PATH@/assets/images/ap-logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -695,7 +695,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -782,7 +782,7 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -917,7 +917,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1169,7 +1169,7 @@
           "allItem": "All",
           "_styles": {
             ".mbr-gallery-item > div > span": {
-              "font-size": "12px"
+              "font-size": "14px"
             }
           }
         },
@@ -1261,7 +1261,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1556,7 +1556,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1922,7 +1922,8 @@
           "_styles": {
             "SPAN": {
               "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#efefef"
             },
             "P": {
               "font-family": "'Merriweather', serif",
@@ -1930,7 +1931,8 @@
             },
             "STRONG": {
               "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#efefef"
             }
           },
           "_anchor": "contacts1-2c",
@@ -1940,7 +1942,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#323232",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1948,9 +1950,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ap-logo-blured-128x128.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1958,9 +1964,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>Московская область,<br>г. Жуковский",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>e-mail: asmolovpipes@gmail.com<br><br>",
-          "text3": "<strong>Ссылки</strong><br>Vkontakte<br>Facebook<br>YouTube<br>Instagram"
+          "text1": "<font color=\"#7c7c7c\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Адрес</b></span></font><br><font color=\"#7c7c7c\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Московская обл.,<br>г. Жуковский.",
+          "text2": "<font color=\"#7c7c7c\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>8 (915) 432-40-15<br>asmolovpipes@gmail.com<br><br>",
+          "text3": "<strong>Соцсети</strong><br><a href=\"http://vk.com/asmolov_pipes\">Vkontakte</a><br>Facebook<br>YouTube<br><a href=\"http://instagram.com/asmolovpipes\">Instagram</a>"
         },
         {
           "_name": "footer1",
@@ -1996,7 +2002,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2073,10 +2079,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ap-logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2105,7 +2113,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2463,7 +2471,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2754,7 +2762,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3045,7 +3053,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3233,7 +3241,7 @@
           "_name": "gallery3",
           "_styles": {
             ".mbr-gallery-item > div > span": {
-              "font-size": "12px"
+              "font-size": "14px"
             }
           },
           "_params": {
@@ -3376,7 +3384,7 @@
               "color": "#ffffff",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
